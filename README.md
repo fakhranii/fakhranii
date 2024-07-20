@@ -60,13 +60,13 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhranyy&anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/fakhranyy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhranyy&layout=compact&show_icons=true&theme=dark)](https://github.com/fakhranyy/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranyy&anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/fakhranyy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranyy&layout=compact&show_icons=true&theme=dark)](https://github.com/fakhranyy/github-readme-stats)
 
 </div>
 </a>  
