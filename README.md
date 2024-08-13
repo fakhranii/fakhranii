@@ -59,7 +59,7 @@
 # 📚 Account Statistics
 
 <div align="center">
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhranyy&layout=compact&show_icons=true&theme=dark)
 
 </div>
