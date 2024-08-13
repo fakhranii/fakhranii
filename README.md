@@ -57,7 +57,7 @@
 <br/>
 
 # 📚 Account Statistics
-<img align="left" width="40%" height="190" src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
+<img align="left" width="40%" height="210" src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
 <img align="left" width="40%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranyy&layout=compact"/>
 </a>  
 </p>
