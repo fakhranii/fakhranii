@@ -57,11 +57,11 @@
 <br/>
 
 # 📚 Account Statistics
-<div align="center">
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
+<div align="center" width="47%">
+<img   src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
 </div>
 
-<div align="center">
+<div align="center" width="47%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranyy&layout=compact&show_icons=true&theme=dark)
 </div>
