@@ -1,16 +1,16 @@
 <div align="center">
  <p>
-   <a href="https://www.facebook.com/Fakhranyyy" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%231DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/fakhranyy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+   <a href="https://www.facebook.com/Fakhranii" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%231DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/fakhranii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-  <a href="https://linkedin.com/in/fakhranyy" target="_blank">
+  <a href="https://linkedin.com/in/fakhranii" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </p>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakhranyy&style=for-the-badge"  />
+  <img src="https://komarev.com/ghpvc/?username=fakhranii&style=for-the-badge"  />
 </div>
 
 <h1 align="center">I'm Ziad El-Fakhrany .. Your Friendly Backend Engineer 👻</h1>
@@ -57,8 +57,8 @@
 <br/>
 
 # 📚 Account Statistics
-<img align="left" width="47%" height="180" src="https://github-readme-stats.vercel.app/api?username=fakhranyy&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranyy&layout=compact"/>
+<img align="left" width="47%" height="180" src="https://github-readme-stats.vercel.app/api?username=fakhranii&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhranii&layout=compact"/>
 </a>  
 </p>
 </div>
